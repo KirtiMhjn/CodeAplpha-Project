@@ -10,7 +10,7 @@ Tracks: An array of track objects, each containing a title and file path.
 Controls: Play, pause, next, and previous buttons that interact with the audio element.
 LoadTrack Function: Updates the audio source and title for the currently selected track.
 Customization
-Replace "path/to/song1.mp3" with the actual file paths to your music tracks.
+Replace "path/to/a.mp3" with the actual file paths to your music tracks.
 Add more tracks to the tracks array as needed.
 You can enhance this player by adding features like volume control, progress bar, or shuffle functionality.
 This basic music player demonstrates how you can use JavaScript to create an interactive and functional web application.
